@@ -6,9 +6,10 @@ I choose to create a DnD Characteer Sheet creator with an option to Save it to t
 This project earned me the third place in the competition consisting of around 30-40 students.
 
 ## Based On vs Final Product
-
+### Based on
 The Sheet was based on the next:
 ![This is an image](https://github.com/nebojsavuga/DnD_Character_Sheet/blob/main/Rad/basedOn.jpg)
 
+### Final Product
 And the final product is:
 ![This is an image](https://github.com/nebojsavuga/DnD_Character_Sheet/blob/main/Rad/How%20It%20Looks%20Printed.png)
