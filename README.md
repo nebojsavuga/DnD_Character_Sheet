@@ -8,7 +8,7 @@ This project earned me the third place in the competition consisting of around 3
 ## Based On vs Final Product
 ### Based on
 The Sheet was based on the next:
-<img src="https://github.com/nebojsavuga/DnD_Character_Sheet/blob/main/Rad/basedOn.jpg" width="550" height="450">
+<img src="https://github.com/nebojsavuga/DnD_Character_Sheet/blob/main/Rad/basedOn.jpg" width="550" height="650">
 ### Final Product
 And the final product is:
-<img src="https://github.com/nebojsavuga/DnD_Character_Sheet/blob/main/Rad/How%20It%20Looks%20Printed.png" width="550" height="450">
+<img src="https://github.com/nebojsavuga/DnD_Character_Sheet/blob/main/Rad/How%20It%20Looks%20Printed.png" width="550" height="650">
